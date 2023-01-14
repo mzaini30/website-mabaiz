@@ -11,3 +11,5 @@
 ![](../aset/tafakur-alam/puzzle-3.jpeg)
 
 ![](../aset/tafakur-alam/putra.jpeg)
+
+![](../aset/tafakur-alam/putri.jpeg)
