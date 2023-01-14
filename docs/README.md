@@ -8,6 +8,8 @@ Untuk ayah bunda yang ingin anaknya menjadi penghafal Quran, bisa mendaftar di M
 
 ![](./aset/penerimaan-santri-baru-tahun-2023-2024.jpeg)
 
+[KLIK UNTUK MENDAFTAR](./penerimaan-santri-baru/tahun-2023.md)
+
 ## Kegiatan Madrasah Baitul Izzah Samarinda
 
 [Tafakur Alam di Air Terjun Perjiwa](./kegiatan/tafakur-alam.md)
