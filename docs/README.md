@@ -7,3 +7,7 @@ Website ini akan berisi dengan berbagai informasi tentang Madrasah Baitul Izzah 
 Untuk ayah bunda yang ingin anaknya menjadi penghafal Quran, bisa mendaftar di Madrasah Baitul Izzah Samarinda karena penerimaan santri baru 2023/2024 sudah dibuka:
 
 ![](./aset/penerimaan-santri-baru-tahun-2023-2024.jpeg)
+
+## Kegiatan Madrasah Baitul Izzah Samarinda
+
+[Tafakur Alam di Air Terjun Perjiwa](./kegiatan/tafakur-alam.md)
