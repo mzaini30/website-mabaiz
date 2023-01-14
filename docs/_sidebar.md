@@ -1,1 +1,3 @@
 - [Beranda](/)
+- Penerimaan Santri Baru
+  - [2023/2024](./penerimaan-santri-baru/tahun-2023.md)
