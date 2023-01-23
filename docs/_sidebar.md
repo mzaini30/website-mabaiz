@@ -3,3 +3,5 @@
   - [2023/2024](./penerimaan-santri-baru/tahun-2023.md)
 - Kegiatan
   - [Tafakur Alam 2023](./kegiatan/tafakur-alam.md)
+- Peraturan
+  - [Tahfidz](./peraturan/tahfidz.md)
