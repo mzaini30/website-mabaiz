@@ -34,7 +34,10 @@ Banyak halaman yang disetorkan adalah 5 lembar. Yaitu, 9 halaman sebelumnya dan 
 
 Murajaah disetorkan secara berpasangan
 
-Murajaah terdapat di dua titik; satu kali di setiap habis Isya dan 5 kali di hari Sabtu
+Murajaah terdapat di dua waktu:
+
+1. satu kali di setiap habis Isya
+2. 5 kali di hari Sabtu
 
 Murajaah setelah Isya adalah dari awal juz hingga hapalan terakhir
 
