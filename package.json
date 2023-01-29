@@ -1,0 +1,30 @@
+{
+  "name": "zen-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/zen-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/zen-blog/issues"
+  },
+  "homepage": "https://github.com/mzaini30/zen-blog#readme",
+  "dependencies": {
+    "@astrojs/mdx": "^0.15.1",
+    "@astrojs/sitemap": "^1.0.0",
+    "@astrojs/tailwind": "^3.0.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "astro": "^2.0.2",
+    "prettier-plugin-astro": "^0.8.0",
+    "tailwindcss": "^3.0.24"
+  }
+}

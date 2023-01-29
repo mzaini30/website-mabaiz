@@ -1,0 +1,36 @@
+---
+const { frontmatter } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{frontmatter.judul}</title>
+  </head>
+  <body>
+    <a
+      href="/"
+      class="p-3 bg-black text-white font-bold uppercase sticky top-0 block"
+      >Mabaiz</a
+    >
+    <div class="p-2 prose mx-auto py-6">
+      <h1>{frontmatter.judul}</h1>
+      <p><em>{frontmatter.ringkasan}</em></p>
+      <slot />
+    </div>
+    <a
+      href="https://forms.gle/QoKjnftwt21NyiHAA"
+      class="rounded px-4 py-2 bg-black text-white font-bold block w-min whitespace-nowrap mb-5 mx-auto"
+      >Daftar Mabaiz</a
+    >
+  </body>
+</html>
+
+<style is:global>
+  iframe {
+    @apply mx-auto max-w-full;
+  }
+</style>
