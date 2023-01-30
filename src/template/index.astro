@@ -1,6 +1,6 @@
 ---
 import Welcome from "../include/welcome.mdx";
-import Adsense from "../include/adsense.astro"
+import Adsense from "../include/adsense.astro";
 
 const tulisan = await Astro.glob("../pages/post/*.mdx");
 const { kategori } = Astro.props;
@@ -22,7 +22,7 @@ if (kategori) {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <Adsense/>
+    <Adsense />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -32,7 +32,7 @@ if (kategori) {
   </head>
   <body>
     <h1 class="p-3 font-bold uppercase">Mabaiz</h1>
-    <div class="p-2 flex gap-2 overflow-x-auto sticky top-0 bg-black">
+    <div class="p-2 flex gap-2 overflow-x-auto sticky top-0 bg-sky-900">
       <a class="itemnya" href="/">all</a>
       {
         semuaKategori.map((x) => (
@@ -68,11 +68,10 @@ if (kategori) {
         ))
       }
     </div>
+    <style>
+      .itemnya {
+        @apply text-sm  px-1  text-white font-bold;
+      }
+    </style>
   </body>
 </html>
-
-<style>
-  .itemnya {
-    @apply text-sm  px-1  text-white font-bold;
-  }
-</style>

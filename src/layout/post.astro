@@ -1,5 +1,5 @@
 ---
-import Adsense from "../include/adsense.astro"
+import Adsense from "../include/adsense.astro";
 
 const { frontmatter } = Astro.props;
 ---
@@ -7,7 +7,7 @@ const { frontmatter } = Astro.props;
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <Adsense/>
+    <Adsense />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,7 +16,7 @@ const { frontmatter } = Astro.props;
   <body>
     <a
       href="/"
-      class="p-3 bg-black text-white font-bold uppercase sticky top-0 block"
+      class="p-3 bg-sky-900 text-white font-bold uppercase sticky top-0 block"
       >Mabaiz</a
     >
     <div class="p-2 prose mx-auto py-6">
@@ -29,11 +29,9 @@ const { frontmatter } = Astro.props;
       class="rounded px-4 py-2 bg-black text-white font-bold block w-min whitespace-nowrap mb-5 mx-auto"
       >Daftar Mabaiz</a
     >
-  </body>
+  </body><style is:global>
+    iframe {
+      @apply mx-auto max-w-full;
+    }
+  </style>
 </html>
-
-<style is:global>
-  iframe {
-    @apply mx-auto max-w-full;
-  }
-</style>
