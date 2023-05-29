@@ -1,0 +1,12 @@
+- [Madrasah Baitul Izzah](./README.md)
+- Penerimaan Santri Baru
+  - [Penerimaan Santri Baru 2023/2024](./postingan/penerimaan-santri-baru-2023-2024.md)
+- Kegiatan
+  - [Tafakur Alam](./postingan/tafakur-alam.md)
+- Peraturan
+  - [Peraturan Tahfidz](./postingan/peraturan-tahfidz.md)
+- Karya Tulis
+  - Ustadz
+    - [Bosan Ngapal Quran? Terus, Bagaimana?](./postingan/ketika-bosan-menghafal-quran.md)
+  - Santri
+    - [Berbaktilah!](./postingan/berbakti.md)

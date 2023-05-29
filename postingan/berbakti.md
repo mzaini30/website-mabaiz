@@ -1,10 +1,6 @@
----
-judul: Berbaktilah!
-ringkasan: Oleh Firman
-layout: "../../layout/post.astro"
-tanggal: 2023-01-30 11:21:19
-kategori: karya
----
+# Berbaktilah
+
+_Oleh: Firman_
 
 Berbaktilah kepada kedua orang tua, karena ridho Allah ada di ridho orang tua.
 

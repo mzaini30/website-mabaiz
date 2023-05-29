@@ -1,10 +1,6 @@
----
-judul: Bosan Ngapal Quran? Terus, Bagaimana?
-ringkasan: Oleh Ustadz Zen
-tanggal: 2023-01-30 11:24:51
-layout: ../../layout/post.astro
-kategori: karya
----
+# Bosan Ngapal Quran? Terus, Bagaimana?
+
+_Oleh: Ustadz Zen_
 
 Rasa bosan itu manusiawi. Siapa pun bisa dihinggapi rasa bosan, termasuk penghafal Quran. Lalu, bagaimana solusinya?
 

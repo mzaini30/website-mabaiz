@@ -1,10 +1,4 @@
----
-judul: Peraturan Tahfidz
-kategori: peraturan
-tanggal: 2023-01-29 09:14:50
-ringkasan: Berbagai peraturan tahfidz
-layout: "../../layout/post.astro"
----
+# Peraturan Tahfidz
 
 ## Waktu
 
