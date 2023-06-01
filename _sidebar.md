@@ -1,4 +1,4 @@
-- [Madrasah Baitul Izzah](/)
+- [Beranda](/)
 - Penerimaan Santri Baru
   - [Penerimaan Santri Baru 2023/2024](./postingan/penerimaan-santri-baru-2023-2024.md)
 - Kegiatan

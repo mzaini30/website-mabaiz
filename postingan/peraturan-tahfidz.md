@@ -42,3 +42,16 @@ Murajaah terdapat di dua waktu:
 Murajaah setelah Isya adalah dari awal juz hingga hapalan terakhir
 
 Murajaah di hari Sabtu adalah murajaah minimal 5 juz terakhir
+
+## Syahadah
+
+Ketika hapalan baru santri telah mencapai 5 juz, maka harus ujian syahadah kepada ustadz/ah di luar ustadz/ah tahfidz.
+
+## Murajaah Syahadah
+
+- Selesai syahadah 1: Murajaah di hari Sabtu
+- Selesai syahadah 2: Murajaah di hari Jumat dan Sabtu
+- Selesai syahadah 3: Murajaah di hari Kamis, Jumat, dan Sabtu
+- Selesai syahadah 4: Murajaah di hari Rabu, Kamis, Jumat, dan Sabtu
+- Selesai syahadah 5: Murajaah di hari Selasa, Rabu, Kamis, Jumat, dan Sabtu
+- Selesai syahadah 6: Murajaah di hari Senin, Selasa, Rabu, Kamis, Jumat, dan Sabtu
