@@ -3,6 +3,7 @@
   - [Penerimaan Santri Baru 2023/2024](./postingan/penerimaan-santri-baru-2023-2024.md)
 - Kegiatan
   - 2023
+    - [Olahraga](./postingan/olahraga.md)
     - [Tafakur Alam](./postingan/tafakur-alam.md)
 - Peraturan
   - [Peraturan Tahfidz](./postingan/peraturan-tahfidz.md)
