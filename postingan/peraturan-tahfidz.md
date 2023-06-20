@@ -26,9 +26,11 @@ Pada hari Sabtu, halaqah sebanyak 5 kali yaitu:
 
 ## Hafalan Baru
 
+Sebelum menghapal, satu halaman yang akan dihapal, dibaca diulangi 20 kali **(new)**
+
 Target hafalan baru setiap bulannya adalah 20 halaman
 
-Banyak halaman yang disetorkan adalah 5 lembar. Yaitu, 9 halaman sebelumnya dan 1 halaman yang baru saja dihapal
+Banyak halaman yang disetorkan adalah 5 lembar. Yaitu, 9 halaman sebelumnya dan 1 halaman yang baru saja dihapal **(important)**
 
 ## Murajaah
 
@@ -43,6 +45,8 @@ Murajaah setelah Isya adalah dari awal juz hingga hapalan terakhir
 
 Murajaah di hari Sabtu adalah murajaah minimal 5 juz terakhir
 
+Jika dalam satu pekan, murajaah belum selesai, maka di pekan berikutnya harus menyelesaikan utang murajaah terlebih dahulu sebelum menyetorkan hafalan baru **(important)**
+
 ## Syahadah
 
 Ketika hapalan baru santri telah mencapai 5 juz, maka harus ujian syahadah kepada ustadz/ah di luar ustadz/ah tahfidz.
@@ -55,3 +59,9 @@ Ketika hapalan baru santri telah mencapai 5 juz, maka harus ujian syahadah kepad
 - Selesai syahadah 4: Murajaah di hari Rabu, Kamis, Jumat, dan Sabtu
 - Selesai syahadah 5: Murajaah di hari Selasa, Rabu, Kamis, Jumat, dan Sabtu
 - Selesai syahadah 6: Murajaah di hari Senin, Selasa, Rabu, Kamis, Jumat, dan Sabtu
+
+## Posisi Duduk
+
+Untuk hafalan baru, posisi duduknya adalah sendiri-sendiri dengan meja masing-masing **(new)**
+
+Untuk murojaah, posisi duduknya adalah berpasang-pasangan dengan temannya
