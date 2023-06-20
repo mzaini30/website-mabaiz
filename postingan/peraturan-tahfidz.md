@@ -28,6 +28,8 @@ Pada hari Sabtu, halaqah sebanyak 5 kali yaitu:
 
 Sebelum menghapal, satu halaman yang akan dihapal, dibaca diulangi 20 kali **(new)**
 
+Sebelum menyetorkan hapalan baru, diulangi dulu 3 kali **(new)**
+
 Target hafalan baru setiap bulannya adalah 20 halaman
 
 Banyak halaman yang disetorkan adalah 5 lembar. Yaitu, 9 halaman sebelumnya dan 1 halaman yang baru saja dihapal **(important)**
