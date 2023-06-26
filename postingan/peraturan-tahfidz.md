@@ -26,7 +26,7 @@ Pada hari Sabtu, halaqah sebanyak 5 kali yaitu:
 
 ## Hafalan Baru
 
-Sebelum menghapal, satu halaman yang akan dihapal, dibaca diulangi 20 kali **(new)**
+Sebelum menghapal, satu halaman yang akan dihapal, dibaca diulangi 40 kali **(new)**
 
 Sebelum menyetorkan hapalan baru, diulangi dulu 3 kali **(new)**
 
