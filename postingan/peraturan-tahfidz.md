@@ -6,7 +6,7 @@ Halaqah tahfidz weekday dilaksanakan sebanyak 6 kali yaitu 5 waktu hafalan baru 
 
 Waktu hafalan baru yaitu:
 
-1. sebelum Subuh
+1. sebelum Subuh **(important)**
 2. setelah Subuh
 3. jam 10
 4. jam setengah 3
